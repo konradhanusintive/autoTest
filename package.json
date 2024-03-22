@@ -1,0 +1,13 @@
+{
+  "name": "autoTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/konradhanusintive/autoTest.git",
+  "author": "Konrad Hanus <konrad.hanus@intive.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  },
+  "scripts": {}
+}
